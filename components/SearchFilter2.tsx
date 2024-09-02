@@ -26,7 +26,7 @@ export function SearchFilter2() {
         <Button variant="outline">Region</Button>
       </DropdownMenuTrigger>
       <DropdownMenuContent className="w-56">
-        <DropdownMenuLabel>Medicinal use</DropdownMenuLabel>
+        <DropdownMenuLabel>Region</DropdownMenuLabel>
         <DropdownMenuSeparator />
         <DropdownMenuCheckboxItem
           checked={showStatusBar}
